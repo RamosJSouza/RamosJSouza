@@ -11,34 +11,14 @@ Welcome to my Github page! I am Ramos and I am currently looking for new oportun
 
 -->
 
-
-#### 🌱 Things I am currently working on: 
-- Studying to take the Azure AZ-900 certification.
-- Taking online courses about DevOps Tools 
-- Practicing spoken English every day, as I still don't feel safe to converse in English. Soon I will be safe to speak! 🚀 *coming soon*
-
-#### 💪🏻 Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
-
 #### :🎯: My Resume:
-Javascript / TypeScript | Angular JS | Ionic | Capacitor | Node JS | Bulletproof CSS | Docker and Kubernet
+Full Stack Developer | Node.js, React.js, Next.js, Angular, Typescript and JavaScript, Docker, DevOps
 
-👨‍💻 I´m a Developer programmer with skills preferential in Frontend and Database.
+- Accomplished full-stack developer with 26 years of experience in Node.js, React, JavaScript, TypeScript, Angular, and scalable architectures. 
 
-🤹🏿 My preferential skills are: 
+- Led high-impact projects such as PIX Mobile (Bradesco), Jordana System (Fiocruz), and VovóCooks, leveraging microservices, Docker, and Kafka. 
 
-✔️ Frontend with Javascript and TypeScript and your frameworks like Ionic, Angular, Vue, et al.
-
-✔️ Also, I´m a Backend developer with Node.
-
-✔️ I too like work with Databases: Oracle, SQL Server, MySQL, Postgres, 
-
-✔️ Of course: BI with Power BI, Microstrategy, and ETL with Pentaho.
-
-I a programmer, with more than 25 years of experience. Specialists in JavaScript and TypeScript.
+Certified in Oracle Cloud and DevOps, I combine strategic vision with agile methodologies (Scrum, Kanban) to deliver robust solutions in healthcare, finance, and education.
 
 🎖️ In my Resume, you can see more about my expertise.
  
