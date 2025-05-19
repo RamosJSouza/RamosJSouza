@@ -2,7 +2,7 @@
 ### This is Ramos de Souza Janones!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RamosJSouza/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][([https://www.linkedin.com/in/ramos-janones/](https://www.linkedin.com/in/ramos-souza/)]
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramos-janones/)
 [![Linkedin](https://img.shields.io/twitter/follow/ramosinfo?style=social)](https://twitter.com/Ramosinfo)
 
 Welcome to my Github page! I am Ramos and I am currently looking for new oportunities!  
