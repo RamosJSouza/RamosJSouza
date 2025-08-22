@@ -1,6 +1,3 @@
-Obrigado por enviar o texto. Eu formatei para você, mantendo a estrutura original e adicionando negrito para as tecnologias, o que ajuda a destacar suas habilidades.
-
----
 ### Hi there 👋
 ### This is Ramos de Souza Janones!
 
@@ -11,3 +8,4 @@ Sou um Desenvolvedor Full Stack experiente, com especialização em **Node.js, R
 Embora grande parte da minha experiência seja em projetos privados, estou entusiasmado em começar a construir meu portfólio open source. Este espaço é dedicado a compartilhar meu conhecimento, colaborar com a comunidade e desenvolver projetos pessoais que refletem minha paixão por tecnologia e inovação.
 
 Sinta-se à vontade para me seguir e conectar para discutir sobre projetos, arquitetura de software e tecnologia em geral.
+
