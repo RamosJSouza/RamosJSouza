@@ -9,7 +9,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ramos de Souza Janones
 ===============================================================================================================================================
 
-Full Stack Developer | 12+ years building scalable solutions | Node.js & React specialist | DevOps enthusiast
+Full Stack Developer | 12+ years building scalable solutions | Node.js & React specialist | DevOps and Artificial Inteligence enthusiast
 -------------------------------------------------------------------------------------------------------------
 
 🚀 **Experienced Full Stack Developer** with 12+ years creating scalable architectures, microservices, and cloud-native solutions.
@@ -86,7 +86,7 @@ Full Stack Developer | 12+ years building scalable solutions | Node.js & React s
 Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Ramos de Souza Janones
 ===============================================================================================================================================
 
-Desenvolvedor Full Stack | 12+ anos construindo soluções escaláveis | Especialista em Node.js & React | Entusiasta DevOps
+Desenvolvedor Full Stack | 12+ anos construindo soluções escaláveis | Especialista em Node.js & React | Entusiasta DevOps e Inteligência Artificial
 --------------------------------------------------------------------------------------------------------------------------
 
 🚀 **Desenvolvedor Full Stack experiente** com mais de 12 anos criando arquiteturas escaláveis, microsserviços e soluções cloud-native.
@@ -161,3 +161,4 @@ Desenvolvedor Full Stack | 12+ anos construindo soluções escaláveis | Especia
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RamosJSouza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
+
